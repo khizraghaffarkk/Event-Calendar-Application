@@ -19,7 +19,7 @@ Welcome to the Event Calendar Application! This feature-rich application empower
 ### Installation
 
 1. **Install Python:** Ensure Python is installed on your system. If not, download and install it from the official Python website.
-2. **Install Spyder:** Download and install Spyder, an intuitive integrated development environment (IDE) for Python. OR
+2. **Install Spyder:** Download and install Spyder, an intuitive integrated development environment (IDE) for Python. **`OR`**
 3. **Install Jupyter Notebook:** Install Jupyter Notebook, a powerful web-based interactive computing platform, using pip or Anaconda.
 4. **Clone the Project Repository:**
    ```bash
